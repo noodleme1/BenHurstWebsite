@@ -1,0 +1,14 @@
+h1 {
+    text-align: center;
+}
+
+
+body {
+    background-color: #9ff3ec;
+}
+div {
+    margin-right: auto;
+    margin-left: auto;
+    width: 80%;
+    background-color: burlywood;
+}
