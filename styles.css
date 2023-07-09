@@ -1,11 +1,18 @@
 h1 {
     text-align: center;
+    color: black;
 }
 
 
 body {
-    background-color: #9ff3ec;
+    background-color: white;
 }
+
+header {
+    background-color: lightgrey;
+}
+
+
 div {
     margin-right: auto;
     margin-left: auto;
